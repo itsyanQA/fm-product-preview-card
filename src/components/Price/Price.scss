@@ -1,0 +1,19 @@
+.price {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+  &__discount {
+    font-family: Fraunces, sans-serif;
+    font-weight: 900;
+    color: var(--dark-cyan);
+    font-size: 32px;
+  }
+
+  &__original {
+    font-family: Montserrat, sans-serif;
+    opacity: 70%;
+    text-decoration: line-through;
+    font-size: 12px;
+  }
+}

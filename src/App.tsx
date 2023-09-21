@@ -1,8 +1,12 @@
-import React from "react";
 import "./App.css";
+import ProductCard from "./components/ProductCard/ProductCard";
 
 function App() {
-  return <h1>hi</h1>;
+  return (
+    <main>
+      <ProductCard />
+    </main>
+  );
 }
 
 export default App;
