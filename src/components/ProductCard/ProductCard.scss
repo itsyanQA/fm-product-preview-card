@@ -13,10 +13,12 @@
   &__image {
     content: url("../../assets/image-product-desktop.jpg");
     border-radius: 10px 0 0 10px;
+    width: 300px;
 
     @media screen and (max-width: 600px) {
       content: url("../../assets/image-product-mobile.jpg");
       border-radius: 10px 10px 0 0;
+      width: unset;
     }
   }
 
@@ -27,8 +29,8 @@
     justify-content: space-evenly;
     padding-left: 30px;
     border-radius: 0 10px 10px 0;
+    width: 300px;
     box-sizing: border-box;
-    max-width: 375px;
 
     @media screen and (max-width: 600px) {
       width: 100%;
