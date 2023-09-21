@@ -19,9 +19,11 @@ Users should be able to:
 
 Web: 
 
+![product-card-web](https://github.com/itsyanQA/product-preview-card/assets/95849693/50e1603c-0007-40a1-8344-5d65372c8249)
 
 Mobile:
 
+![product-card-mobile](https://github.com/itsyanQA/product-preview-card/assets/95849693/33112735-be6b-4a27-94d1-83c59cfb1908)
 
 ### Built with
 
